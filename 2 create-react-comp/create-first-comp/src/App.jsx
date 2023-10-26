@@ -7,7 +7,8 @@ function App() {
     <h1>
       This is the best React course
     </h1>
-    <Hello></Hello>
+    <br />
+    <Hello />
     <Random></Random>
     <Random></Random>
     <Random></Random>
