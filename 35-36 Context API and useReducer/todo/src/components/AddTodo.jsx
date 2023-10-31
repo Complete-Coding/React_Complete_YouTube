@@ -1,6 +1,9 @@
+import { useContext } from "react";
 import { useState } from "react";
+import { TodoItemsContext } from "../store/todo-items-store";
 
-function AddTodo({ onNewItem }) {
+function AddTodo() {
+  const { addNewItem } = useContext(TodoItemsContext);
   const [todoName, setTodoName] = useState();
   const [dueDate, setDueDate] = useState();
 
@@ -13,7 +16,7 @@ function AddTodo({ onNewItem }) {
   };
 
   const handleAddButtonClicked = () => {
-    onNewItem(todoName, dueDate);
+    addNewItem(todoName, dueDate);
     setDueDate("");
     setTodoName("");
   };
