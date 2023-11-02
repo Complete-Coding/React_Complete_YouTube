@@ -11,7 +11,6 @@ let CurrentTime = () => {
 
     return () => {
       clearInterval(intervalId);
-      console.log("Cancelled the interval");
     };
   }, []);
 
