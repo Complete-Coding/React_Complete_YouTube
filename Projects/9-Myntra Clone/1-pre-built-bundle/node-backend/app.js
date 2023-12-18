@@ -26,7 +26,7 @@ app.get('/items/:id', async (req, res) => {
   res.json({ item });
 });
 
-app.item('/items', async (req, res) => {
+app.post('/items', async (req, res) => {
   const existingItems = await getStoredItems();
   const itemData = req.body;
   const newItem = {
