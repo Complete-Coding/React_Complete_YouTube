@@ -1,0 +1,260 @@
+{
+  "items": [
+    [
+      {
+        "id": "001",
+        "image": "images/1.jpg",
+        "company": "Carlton London",
+        "item_name": "Rhodium-Plated CZ Floral Studs",
+        "original_price": 1045,
+        "current_price": 606,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": {
+          "stars": 4.5,
+          "count": 1400
+        },
+        "section": "women"
+      },
+      {
+        "id": "002",
+        "image": "images/2.jpg",
+        "company": "CUKOO",
+        "item_name": "Women Padded Halter Neck Swimming Dress",
+        "original_price": 2599,
+        "current_price": 1507,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": {
+          "stars": 4.3,
+          "count": 24
+        },
+        "section": "women"
+      },
+      {
+        "id": "003",
+        "image": "images/3.jpg",
+        "company": "NUEVOSDAMAS",
+        "item_name": "Women Red & White Printed A-Line Knee-Length Skirts",
+        "original_price": 1599,
+        "current_price": 495,
+        "discount_percentage": 69,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": {
+          "stars": 4.1,
+          "count": 249
+        },
+        "section": "women"
+      },
+      {
+        "id": "004",
+        "image": "images/4.jpg",
+        "company": "ADIDAS",
+        "item_name": "Indian Cricket ODI Jersey",
+        "original_price": 999,
+        "current_price": 999,
+        "discount_percentage": 0,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": {
+          "stars": 5,
+          "count": 10
+        },
+        "section": "men"
+      },
+      {
+        "id": "005",
+        "image": "images/5.jpg",
+        "company": "Roadster",
+        "item_name": "Pure Cotton T-shirt",
+        "original_price": 1399,
+        "current_price": 489,
+        "discount_percentage": 65,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": {
+          "stars": 4.2,
+          "count": 3500
+        },
+        "section": "men"
+      },
+      {
+        "id": "006",
+        "image": "images/6.jpg",
+        "company": "Nike",
+        "item_name": "Men ReactX Running Shoes",
+        "original_price": 14995,
+        "current_price": 14995,
+        "discount_percentage": 0,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": {
+          "stars": 0,
+          "count": 0
+        },
+        "section": "men"
+      },
+      {
+        "id": "007",
+        "image": "images/7.jpg",
+        "company": "The Indian Garage Co",
+        "item_name": "Men Slim Fit Regular Shorts",
+        "original_price": 1599,
+        "current_price": 639,
+        "discount_percentage": 60,
+        "rating": {
+          "stars": 4.2,
+          "count": 388
+        },
+        "section": "men"
+      },
+      {
+        "id": "008",
+        "image": "images/8.jpg",
+        "company": "Nivea",
+        "item_name": "Men Fresh Deodrant 150ml",
+        "original_price": 285,
+        "current_price": 142,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": {
+          "stars": 4.2,
+          "count": 5200
+        },
+        "section": "home"
+      },
+      {
+        "id": "009",
+        "image": "images/9.jpg",
+        "company": "Boult",
+        "item_name": "Boult Astra with Quad Mic",
+        "original_price": 3499,
+        "current_price": 1499,
+        "discount_percentage": 57,
+        "return_period": 14,
+        "delivery_date": "13 Oct 2023",
+        "rating": {
+          "stars": 4.1,
+          "count": 459
+        },
+        "section": "electronic"
+      },
+      {
+        "id": "010",
+        "image": "images/10.jpg",
+        "company": "Poco",
+        "item_name": "Poco M6 pro 5G",
+        "original_price": 25000,
+        "current_price": 20000,
+        "discount_percentage": 20,
+        "return_period": 7,
+        "delivery_date": "19 Oct 2023",
+        "rating": {
+          "stars": 4.3,
+          "count": 342
+        },
+        "section": "electronic"
+      },
+      {
+        "id": "011",
+        "image": "images/12.jpg",
+        "company": "pexpo",
+        "item_name": "Pexpo PU isulated water bottle",
+        "original_price": 500,
+        "current_price": 250,
+        "discount_percentage": 50,
+        "return_period": 4,
+        "delivery_date": "23 Oct 2023",
+        "rating": {
+          "stars": 3.9,
+          "count": 23
+        },
+        "section": "home"
+      },
+      {
+        "id": "012",
+        "image": "images/11.jpg",
+        "company": "Crown",
+        "item_name": "Crown microfilber door mats",
+        "original_price": 700,
+        "current_price": 146,
+        "discount_percentage": 79,
+        "return_period": 10,
+        "delivery_date": "12 Oct 2023",
+        "rating": {
+          "stars": 4.5,
+          "count": 49
+        },
+        "section": "home"
+      },
+      {
+        "id": "013",
+        "image": "images/13.jpg",
+        "company": "Shocknshop",
+        "item_name": "Kids Cartoon Printed LED Backlight Digital Multi Function Watch 327 Light Pink",
+        "original_price": 1499,
+        "current_price": 494,
+        "discount_percentage": 67,
+        "return_period": 10,
+        "delivery_date": "12 Oct 2023",
+        "rating": {
+          "stars": 4.5,
+          "count": 49
+        },
+        "section": "kids"
+      },
+      {
+        "id": "014",
+        "image": "images/14.jpg",
+        "company": "Skybags",
+        "item_name": "Unisex Kids Blue Graphic Backpack",
+        "original_price": 2198,
+        "current_price": 835,
+        "discount_percentage": 62,
+        "return_period": 10,
+        "delivery_date": "14 Oct 2023",
+        "rating": {
+          "stars": 4.9,
+          "count": 19
+        },
+        "section": "kids"
+      },
+      {
+        "id": "015",
+        "image": "images/15.jpg",
+        "company": "Fossil",
+        "item_name": "44MM Townsman Men Brown Analogue Watch FS5437",
+        "original_price": 12495,
+        "current_price": 12495,
+        "discount_percentage": 0,
+        "return_period": 4,
+        "delivery_date": "30 Oct 2023",
+        "rating": {
+          "stars": 4.9,
+          "count": 7
+        },
+        "section": "men"
+      },
+      {
+        "id": "016",
+        "image": "images/16.jpg",
+        "company": "Portronics",
+        "item_name": "Dash 6 Black 15W Portable Bluetooth Speaker With In-Built Nature Sounds",
+        "original_price": 2999,
+        "current_price": 1999,
+        "discount_percentage": 33,
+        "return_period": 4,
+        "delivery_date": "20 Oct 2023",
+        "rating": {
+          "stars": 3.5,
+          "count": 456
+        },
+        "section": "electronic"
+      }
+    ]
+  ]
+}
